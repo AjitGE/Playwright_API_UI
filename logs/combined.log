@@ -1,0 +1,88 @@
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:20.041Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:20.041Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:20.040Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:20.072Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:20.073Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:20.073Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:20.072Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:20.073Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:20.073Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:20.072Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:20.073Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:20.074Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:20.954Z"}
+{"level":"info","message":"Navigated to API section","timestamp":"2025-02-04T15:50:21.229Z"}
+{"level":"info","message":"API navigation test completed","timestamp":"2025-02-04T15:50:21.230Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:21.250Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:21.250Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:22.184Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:22.230Z"}
+{"level":"info","message":"Homepage title verification completed","timestamp":"2025-02-04T15:50:22.237Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:22.276Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:22.276Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:22.748Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:22.756Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:22.758Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:22.758Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:23.450Z"}
+{"level":"info","message":"Homepage title verification completed","timestamp":"2025-02-04T15:50:23.517Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:23.526Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:23.527Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:24.235Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:24.238Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:24.239Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:24.239Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:24.693Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:24.696Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:24.697Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:24.697Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:25.051Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:25.425Z"}
+{"level":"info","message":"Navigated to API section","timestamp":"2025-02-04T15:50:25.618Z"}
+{"level":"info","message":"API navigation test completed","timestamp":"2025-02-04T15:50:25.619Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:25.635Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:25.636Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:33.196Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:33.208Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:33.281Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:33.282Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:33.284Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:33.281Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:33.282Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:33.284Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:34.252Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:34.252Z"}
+{"level":"info","message":"Homepage title verification completed","timestamp":"2025-02-04T15:50:34.315Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:34.344Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:34.345Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T15:50:34.732Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T15:50:34.732Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T15:50:34.732Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T15:50:34.732Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T15:50:35.699Z"}
+{"level":"info","message":"Navigated to API section","timestamp":"2025-02-04T15:50:35.794Z"}
+{"level":"info","message":"API navigation test completed","timestamp":"2025-02-04T15:50:35.794Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:35.819Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:35.819Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:48.311Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:48.311Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:50:53.570Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:50:53.570Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T15:51:01.414Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T15:51:01.414Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T16:16:48.307Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T16:16:48.316Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T16:16:48.316Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T16:16:48.316Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T16:16:51.278Z"}
+{"level":"info","message":"Homepage title verification completed","timestamp":"2025-02-04T16:16:51.320Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T16:16:51.331Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T16:16:51.331Z"}
+{"level":"info","message":"Page instance set in PageManager","timestamp":"2025-02-04T16:19:45.574Z"}
+{"level":"info","message":"Browser instance set in PageManager","timestamp":"2025-02-04T16:19:45.696Z"}
+{"level":"info","message":"Context instance set in PageManager","timestamp":"2025-02-04T16:19:45.698Z"}
+{"level":"info","message":"Test setup completed","timestamp":"2025-02-04T16:19:45.700Z"}
+{"level":"info","message":"Navigated to Playwright documentation homepage","timestamp":"2025-02-04T16:19:46.675Z"}
+{"level":"info","message":"Homepage title verification completed","timestamp":"2025-02-04T16:19:46.704Z"}
+{"level":"info","message":"Page closed","timestamp":"2025-02-04T16:19:46.717Z"}
+{"level":"info","message":"Test cleanup completed","timestamp":"2025-02-04T16:19:46.717Z"}
